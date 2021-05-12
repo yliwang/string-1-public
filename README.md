@@ -1,4 +1,4 @@
-# queue-1, implement fixed-size array queue, following the project structure in this repository.
-You can only edit code in queue.c and main.c,and leave code in defs. and queue.h un-touched
-For this assignment, the whole repository should be submitted
+# string-1, implement singly linked string, following the project structure in this repository.
+You can only edit code in lstring.c and main.c,and leave code in lstring.h un-touched
+For this assignment, only lstring.c should be submitted
 
